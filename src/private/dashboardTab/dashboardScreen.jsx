@@ -101,7 +101,7 @@ const RingProgress = ({ size = 64, stroke = 6, percent = 67, color = '#10b981', 
 // Main Dashboard Screen
 // ════════════════════════════════════════════════════════════════════════
 const DashboardScreen = ({ navigation }) => {
-    const adminName = 'Konda';
+    const adminName = 'Ashok';
     const [chartMetric, setChartMetric] = useState('bookings');
 
     // ── Data imported from central data store ──
